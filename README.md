@@ -1,6 +1,6 @@
 # **Taylor Bisset Live Portfolio**
 
-[TaylorBisset.GitHub.io](https://taylorbisset.github.io/) is where I will store the live previews of [code](https://github.com/TaylorBisset) I work on through GitHub.com
+[TaylorBisset.GitHub.io](https://taylorbisset.github.io/) is where I will store the live previews of code I work on through [my GitHub.com](https://github.com/TaylorBisset) account.
 
 ---
 ---
